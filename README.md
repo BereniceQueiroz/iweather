@@ -23,7 +23,7 @@ Weather forecast application with a focus on testing (component testing, mocks, 
 ```bash
    # Make a clone of the repository
 
-   git clone <https://github.com/BereniceQueiroz/goFinances>
+   git clone <https://github.com/BereniceQueiroz/iweather>
 
    # Install dependencies
 
