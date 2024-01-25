@@ -57,4 +57,8 @@ Weather forecast application with a focus on testing (component testing, mocks, 
 - Jest
 - React Native Testing Library
 
+<h2>📝 Licença</h2>
+Esse projeto se encontra sob a licença <strong>MIT</strong>. Para mais informações, acesse o arquivo <strong>LICENSE</strong>.
+
+
 <p align=center>Made with 💜 by <a href="https://www.linkedin.com/in/berenicequeiroz/">Berenice</a><p>
