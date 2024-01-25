@@ -47,7 +47,7 @@ Weather forecast application with a focus on testing (component testing, mocks, 
 - React Native Testing Library
 
 <h2>📝 Licença</h2>
-Esse projeto se encontra sob a licença <strong>MIT</strong>. Para mais informações, acesse o arquivo <strong>LICENSE</strong>.
+This project is under the <strong>MIT</strong> license. For more information, access the <strong>LICENSE</strong> file.
 
 
 
